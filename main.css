@@ -18,9 +18,13 @@ body {
     list-style-type: none;
 }
 
-#ceo-description font[size]  {
+#corp-description font[size]  {
     font-size: medium !important;
     
+}
+
+#ceo-description font[size]  {
+    font-size: medium !important;
 }
 
 #first-corp-ad font[size]  {
